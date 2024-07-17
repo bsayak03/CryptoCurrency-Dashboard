@@ -18,23 +18,23 @@ CryptoTracker is a comprehensive cryptocurrency dashboard that allows users to t
 The main dashboard displays current prices and 24-hour changes for selected cryptocurrencies.
 
 ### Compare
-![Compare](./screenshots/compare.png)
+![Compare](./compare.png)
 A grid view comparing multiple cryptocurrencies with key metrics.
 
 ### Price Chart
-![Price Chart](./screenshots/eth.png)
+![Price Chart](./eth.png)
 30-day price history chart for selected cryptocurrencies.
 
 ### Landing Page
-![Landing Page](./screenshots/landingPage.png)
+![Landing Page](./landingPage.png)
 The application's landing page with quick access to the dashboard.
 
 ### Share Functionality
-![Share Options](./screenshots/shareApp.png)
+![Share Options](./shareApp.png)
 Various options for sharing the application with others.
 
 ### Watchlist Functionality
-![Watch Options](./screenshots/watchlist.png)
+![Watch Options](./watchlist.png)
 Various options for sharing the application with others.
 
 ## Technologies Used
