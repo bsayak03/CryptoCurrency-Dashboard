@@ -14,7 +14,7 @@ CryptoTracker is a comprehensive cryptocurrency dashboard that allows users to t
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](./screenshots/dashboard.png)
+![Main Dashboard](./dashboard.png)
 The main dashboard displays current prices and 24-hour changes for selected cryptocurrencies.
 
 ### Compare
